@@ -1,0 +1,16 @@
+{
+  "name": "sprunki-infected",
+  "version": "1.0.0",
+  "description": "A rhythm-based survival game set in a post-apocalyptic world where players create music to survive.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["rhythm game", "survival", "music", "post-apocalyptic"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    // List dependencies like "express" or other libraries
+  }
+}
