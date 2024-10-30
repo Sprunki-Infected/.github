@@ -27,7 +27,7 @@ Sprunki Infected brings several unique features to the table, making it a compel
 
 ## The Role of Music in Gameplay
 
-Sprunki Infected is centered around music, but it is not limited to simple button-pressing mechanics. Instead, players actively create music that shapes their experience and helps them progress. The game includes a diverse sound pack with options for melodies, beats, and sound effects, enabling players to experiment with different musical styles and combinations.
+[Sprunki Dandy's World](https://github.com/Sprunki-Dandy-s-World) is centered around music, but it is not limited to simple button-pressing mechanics. Instead, players actively create music that shapes their experience and helps them progress. The game includes a diverse sound pack with options for melodies, beats, and sound effects, enabling players to experiment with different musical styles and combinations.
 
 Each sound has an impact on gameplay, creating an immersive experience where music is essential for overcoming challenges. The game provides real-time auditory feedback, helping players fine-tune their timing and rhythm as they advance through levels.
 
@@ -58,3 +58,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/yourusername/sprunki-infected.git
 cd sprunki-infected
 npm install
+
